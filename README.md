@@ -12,7 +12,7 @@ Busca ficheros ZIP en subcarpetas y lanza 7zip por consola para descomprimirlos.
 
 ### unity_abrir_proyectos.py
 
-Busca todos los proyectos de Unity en subcarpetas, la mejor versión de Unity disponible para abrir cada uno de ellos y muestra un terminal con el listado para abrirlos desde consola. Necesario configurar ruta a Unity Hub.
+Busca todos los proyectos de Unity en subcarpetas, la mejor versión de Unity disponible para abrir cada uno de ellos y muestra un terminal con el listado para abrirlos desde consola. Necesario configurar la ruta de instalación de versiones de Unity en Unity Hub.
 
 ### unity_eliminar_packages.py
 
